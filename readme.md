@@ -13,6 +13,12 @@ Stack
 
 ## How to run
 
+### Prerequisites
+MongoDB
+Node.js
+NPM / Yarn
+Docker
+
 Run the following commands in the terminal.
 ```
 git clone https://github.com/confidentmeerkat/phone-book.git
