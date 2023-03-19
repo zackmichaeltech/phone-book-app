@@ -4,6 +4,7 @@ Simple phone book application with React and GraphQL.
 
 Stack
 - React
+- Material UI
 - TypeScript
 - Node.js
 - Express.js
