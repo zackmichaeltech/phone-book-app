@@ -8,6 +8,7 @@ interface Props {
   onChange: React.EventHandler<React.ChangeEvent<HTMLInputElement>>;
 }
 
+// Input component for filtering user by last name
 const FilterInput: React.FC<Props> = ({ value, onChange }) => {
   return (
     <Box mt={3} width="100%">
