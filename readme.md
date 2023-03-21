@@ -1,6 +1,6 @@
 # Phone Book App
 
-Simple phone book application with React and GraphQL.
+Simple phone book application with MERN stack and GraphQL.
 
 Stack
 - React
