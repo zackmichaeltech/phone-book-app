@@ -16,10 +16,10 @@ Stack
 ## How to run
 
 ### Prerequisites
-MongoDB
-Node.js
-NPM / Yarn
-Docker
+- MongoDB
+- Node.js
+- NPM / Yarn
+- Docker
 
 Run the following commands in the terminal.
 ```
