@@ -9,6 +9,7 @@ Stack
 - Node.js
 - Express.js
 - GraphQL
+- GraphQL TypeGen
 - react-query
 - Docker
 
