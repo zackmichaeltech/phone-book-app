@@ -13,6 +13,7 @@ const contactSchema = new mongoose.Schema({
     required: true,
     type: String,
   },
+  address: String,
 });
 
 const contactModel = mongoose.model("Contact", contactSchema);
